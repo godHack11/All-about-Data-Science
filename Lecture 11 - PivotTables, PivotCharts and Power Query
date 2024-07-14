@@ -1,0 +1,24 @@
+Pivot Tables
+- It is an Excel features to summarize, analyze and rearrange the data.
+- It privides an interactive way to calculate, aggregrate and and analyze data.
+Operations :
+- summarizing 
+- Filtering 
+- calculating percentage
+- Grouping the data
+
+Pivot Chart
+- It is an extension of a PivotTable that provids a graphical representation of the data summarized in the PivotTable
+Operations :
+- Changing Chart Types
+- Customizing Chart Elements
+- Drilling Down Data
+
+Power Query
+- It is a data collection technology that discover, conect, combine and refine data.
+- I provides import, clean and transform the data.
+Operations :
+- Merging Queries
+- Appending Queries
+- Unpivoting Columns 
+- Creating Calculated Columns
