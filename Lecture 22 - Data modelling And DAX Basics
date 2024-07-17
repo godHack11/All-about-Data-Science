@@ -1,0 +1,40 @@
+DAX (DATA ANALYSIS EXPRESSIONS)
+- It is a formula based language in Power BI]
+
+Key DAX Functions: SUM, COUNT, and IF
+1. SUM 
+- Function : SUM(ColumnName)
+- Description : Adds all the numbers in a column.
+- Real-Life Scenario : Calculating the total sales amount in a sales dataset.
+
+2. COUNT
+- Function : COUNT(ColumnName)
+- Description : Counts the number of non-blank cells in a column.
+- Real-Life Scenario : Counting the numbers of orders placed by customers.
+
+3. IF
+- Function : IF(LogistoicalTest, ResultIfTrue, ResultIfFalse)
+- Description : Checks a condition, and return one value if true, and another value if false.
+- Real-Life Scenario : Categorizing sales as "High" or "Low" based on a sales thresholds.
+
+Real-Life Use Case scenarios for DAX Functions
+1. Sales Analysis
+2. Inventory Management
+3. Customer Insight
+4. Financial Reporting 
+5. Human resources
+6. project Management
+7. Marketing Analysis
+8. Operational Efficiency
+
+Advantages of using DAX Functions
+1. Performance Optimization
+2. Data Manipulating
+3. Dynamic Calculations
+4. Integrations
+5. Reusability
+6. Flexibility
+7. Scalability
+8. User-Friendly
+9. Customer Calculations
+10. Enhanced Reporting
